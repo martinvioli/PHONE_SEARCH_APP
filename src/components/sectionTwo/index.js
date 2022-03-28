@@ -1,11 +1,10 @@
 import React, { useState, createRef, useEffect } from "react";
-import styles from "./styles.modules.css";
 import { connect } from "react-redux";
 import { addPhoneCompASYNC } from "../../redux/actions";
 
 export function SectionTwo(props) {
   const [phones, setPhones] = useState([]);
-  const [refer, setRefer] = useState(createRef());
+  const [refer] = useState(createRef());
 
   async function phoneFetcher(query) {
     if (query === "empty" || query.includes("wa")) {
