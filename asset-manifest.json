@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PHONE_SEARCH_APP/static/css/main.00d13120.css",
-    "main.js": "/PHONE_SEARCH_APP/static/js/main.d48c54b9.js",
+    "main.css": "/PHONE_SEARCH_APP/static/css/main.4bd2ae98.css",
+    "main.js": "/PHONE_SEARCH_APP/static/js/main.c587894a.js",
     "static/js/787.df49d2a8.chunk.js": "/PHONE_SEARCH_APP/static/js/787.df49d2a8.chunk.js",
     "index.html": "/PHONE_SEARCH_APP/index.html",
-    "main.00d13120.css.map": "/PHONE_SEARCH_APP/static/css/main.00d13120.css.map",
-    "main.d48c54b9.js.map": "/PHONE_SEARCH_APP/static/js/main.d48c54b9.js.map",
+    "main.4bd2ae98.css.map": "/PHONE_SEARCH_APP/static/css/main.4bd2ae98.css.map",
+    "main.c587894a.js.map": "/PHONE_SEARCH_APP/static/js/main.c587894a.js.map",
     "787.df49d2a8.chunk.js.map": "/PHONE_SEARCH_APP/static/js/787.df49d2a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00d13120.css",
-    "static/js/main.d48c54b9.js"
+    "static/css/main.4bd2ae98.css",
+    "static/js/main.c587894a.js"
   ]
 }
