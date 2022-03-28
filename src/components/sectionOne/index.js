@@ -1,5 +1,4 @@
 import React from "react";
-import styles from "./styles.modules.css";
 import TopComp from "./topComp";
 
 export default function SectionOne() {

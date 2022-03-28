@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import styles from "./styles.modules.css";
 
 export default function TopComp(props) {
   var [data, setData] = useState([]);
