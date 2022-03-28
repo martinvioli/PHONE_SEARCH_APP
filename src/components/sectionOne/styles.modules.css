@@ -1,0 +1,54 @@
+img {
+  height: 1em;
+  width: 1em;
+  margin-bottom: -3px;
+}
+
+#sectionOne {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#lists {
+  display: flex;
+  padding: 1em;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+h1 {
+  color: #ffffff;
+  letter-spacing: 0.1em;
+  text-shadow: 3px 2px 3px rgba(255, 255, 255, 0.2);
+  max-width: 20em;
+  padding: 0 1em 0 1em;
+}
+
+h3 {
+  min-width: 18em;
+  width: 25vw;
+  max-width: 30em;
+  margin-bottom: 0%;
+}
+
+h4 {
+  font-weight: 100;
+  font-style: italic;
+  color: white;
+  margin-top: 0%;
+  font-size: smaller;
+}
+
+#linkedin {
+  background-color: rgba(240, 248, 255, 0.329);
+  border-top-left-radius: 1em;
+  border-bottom-right-radius: 1em;
+}
+
+a {
+  text-decoration: none; /* no underline */
+  color: black;
+}
