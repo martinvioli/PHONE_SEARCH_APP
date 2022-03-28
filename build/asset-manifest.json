@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PHONE_SEARCH_APP/static/css/main.6191ff69.css",
+    "main.js": "/PHONE_SEARCH_APP/static/js/main.b4ab003e.js",
+    "static/js/787.df49d2a8.chunk.js": "/PHONE_SEARCH_APP/static/js/787.df49d2a8.chunk.js",
+    "index.html": "/PHONE_SEARCH_APP/index.html",
+    "main.6191ff69.css.map": "/PHONE_SEARCH_APP/static/css/main.6191ff69.css.map",
+    "main.b4ab003e.js.map": "/PHONE_SEARCH_APP/static/js/main.b4ab003e.js.map",
+    "787.df49d2a8.chunk.js.map": "/PHONE_SEARCH_APP/static/js/787.df49d2a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6191ff69.css",
+    "static/js/main.b4ab003e.js"
+  ]
+}
